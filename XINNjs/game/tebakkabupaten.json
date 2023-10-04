@@ -1,0 +1,2572 @@
+[
+        {
+            "index": 1,
+            "jawaban": "Kabupaten Aceh Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/1/200"
+        },
+        {
+            "index": 2,
+            "jawaban": "Kabupaten Aceh Barat Daya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/2/200"
+        },
+        {
+            "index": 3,
+            "jawaban": "Kabupaten Aceh Besar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/3/200"
+        },
+        {
+            "index": 4,
+            "jawaban": "Kabupaten Aceh Jaya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/4/200"
+        },
+        {
+            "index": 5,
+            "jawaban": "Kabupaten Aceh Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/5/200"
+        },
+        {
+            "index": 6,
+            "jawaban": "Kabupaten Aceh Singkil",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/6/200"
+        },
+        {
+            "index": 7,
+            "jawaban": "Kabupaten Aceh Tamiang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/7/200"
+        },
+        {
+            "index": 8,
+            "jawaban": "Kabupaten Aceh Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/8/200"
+        },
+        {
+            "index": 9,
+            "jawaban": "Kabupaten Aceh Tenggara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/9/200"
+        },
+        {
+            "index": 10,
+            "jawaban": "Kabupaten Aceh Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/10/200"
+        },
+        {
+            "index": 11,
+            "jawaban": "Kabupaten Aceh Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/11/200"
+        },
+        {
+            "index": 12,
+            "jawaban": "Kabupaten Bener Meriah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/12/200"
+        },
+        {
+            "index": 13,
+            "jawaban": "Kabupaten Bireuen",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/13/200"
+        },
+        {
+            "index": 14,
+            "jawaban": "Kabupaten Gayo Lues",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/14/200"
+        },
+        {
+            "index": 15,
+            "jawaban": "Kabupaten Nagan Raya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/15/200"
+        },
+        {
+            "index": 16,
+            "jawaban": "Kabupaten Pidie",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/16/200"
+        },
+        {
+            "index": 17,
+            "jawaban": "Kabupaten Pidie Jaya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/17/200"
+        },
+        {
+            "index": 18,
+            "jawaban": "Kabupaten Simeulue",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/18/200"
+        },
+        {
+            "index": 19,
+            "jawaban": "Kota Banda Aceh",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/19/200"
+        },
+        {
+            "index": 20,
+            "jawaban": "Kota Langsa",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/20/200"
+        },
+        {
+            "index": 21,
+            "jawaban": "Kota Lhokseumawe",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/21/200"
+        },
+        {
+            "index": 22,
+            "jawaban": "Kota Sabang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/22/200"
+        },
+        {
+            "index": 23,
+            "jawaban": "Kota Subulussalam",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/23/200"
+        },
+        {
+            "index": 24,
+            "jawaban": "Kabupaten Asahan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/24/200"
+        },
+        {
+            "index": 25,
+            "jawaban": "Kabupaten Batubara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/25/200"
+        },
+        {
+            "index": 26,
+            "jawaban": "Kabupaten Dairi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/26/200"
+        },
+        {
+            "index": 27,
+            "jawaban": "Kabupaten Deli Serdang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/27/200"
+        },
+        {
+            "index": 28,
+            "jawaban": "Kabupaten Karo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/28/200"
+        },
+        {
+            "index": 29,
+            "jawaban": "Kabupaten Humbang Hasundutan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/29/200"
+        },
+        {
+            "index": 30,
+            "jawaban": "Kabupaten Labuhanbatu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/30/200"
+        },
+        {
+            "index": 31,
+            "jawaban": "Kabupaten Labuhanbatu Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/31/200"
+        },
+        {
+            "index": 32,
+            "jawaban": "Kabupaten Labuhanbatu Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/32/200"
+        },
+        {
+            "index": 33,
+            "jawaban": "Kabupaten Langkat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/33/200"
+        },
+        {
+            "index": 34,
+            "jawaban": "Kabupaten Mandailing Natal",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/34/200"
+        },
+        {
+            "index": 35,
+            "jawaban": "Kabupaten Nias",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/35/200"
+        },
+        {
+            "index": 36,
+            "jawaban": "Kabupaten Nias Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/36/200"
+        },
+        {
+            "index": 37,
+            "jawaban": "Kabupaten Nias Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/37/200"
+        },
+        {
+            "index": 38,
+            "jawaban": "Kabupaten Nias Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/38/200"
+        },
+        {
+            "index": 39,
+            "jawaban": "Kabupaten Padang Lawas",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/39/200"
+        },
+        {
+            "index": 40,
+            "jawaban": "Kabupaten Padang Lawas Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/40/200"
+        },
+        {
+            "index": 41,
+            "jawaban": "Kabupaten Pakpak Bharat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/41/200"
+        },
+        {
+            "index": 42,
+            "jawaban": "Kabupaten Samosir",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/42/200"
+        },
+        {
+            "index": 43,
+            "jawaban": "Kabupaten Serdang Bedagai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/43/200"
+        },
+        {
+            "index": 44,
+            "jawaban": "Kabupaten Simalungun",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/44/200"
+        },
+        {
+            "index": 45,
+            "jawaban": "Kabupaten Tapanuli Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/45/200"
+        },
+        {
+            "index": 46,
+            "jawaban": "Kabupaten Tapanuli Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/46/200"
+        },
+        {
+            "index": 47,
+            "jawaban": "Kabupaten Tapanuli Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/47/200"
+        },
+        {
+            "index": 48,
+            "jawaban": "Kabupaten Toba Samosir",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/48/200"
+        },
+        {
+            "index": 49,
+            "jawaban": "Kota Binjai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/49/200"
+        },
+        {
+            "index": 50,
+            "jawaban": "Kota Gunungsitoli",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/50/200"
+        },
+        {
+            "index": 51,
+            "jawaban": "Kota Medan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/51/200"
+        },
+        {
+            "index": 52,
+            "jawaban": "Kota Padang Sidempuan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/52/200"
+        },
+        {
+            "index": 53,
+            "jawaban": "Kota Pematangsiantar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/53/200"
+        },
+        {
+            "index": 54,
+            "jawaban": "Kota Sibolga",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/54/200"
+        },
+        {
+            "index": 55,
+            "jawaban": "Kota Tanjungbalai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/55/200"
+        },
+        {
+            "index": 56,
+            "jawaban": "Kota Tebing Tinggi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/56/200"
+        },
+        {
+            "index": 57,
+            "jawaban": "Kabupaten Agam",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/57/200"
+        },
+        {
+            "index": 58,
+            "jawaban": "Kabupaten Dharmasraya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/58/200"
+        },
+        {
+            "index": 59,
+            "jawaban": "Kabupaten Kepulauan Mentawai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/59/200"
+        },
+        {
+            "index": 60,
+            "jawaban": "Kabupaten Lima Puluh Kota",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/60/200"
+        },
+        {
+            "index": 61,
+            "jawaban": "Kabupaten Padang Pariaman",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/61/200"
+        },
+        {
+            "index": 62,
+            "jawaban": "Kabupaten Pasaman",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/62/200"
+        },
+        {
+            "index": 63,
+            "jawaban": "Kabupaten Pasaman Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/63/200"
+        },
+        {
+            "index": 64,
+            "jawaban": "Kabupaten Pesisir Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/64/200"
+        },
+        {
+            "index": 65,
+            "jawaban": "Kabupaten Sijunjung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/65/200"
+        },
+        {
+            "index": 66,
+            "jawaban": "Kabupaten Solok",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/66/200"
+        },
+        {
+            "index": 67,
+            "jawaban": "Kabupaten Solok Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/67/200"
+        },
+        {
+            "index": 68,
+            "jawaban": "Kabupaten Tanah Datar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/68/200"
+        },
+        {
+            "index": 69,
+            "jawaban": "Kota Bukittinggi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/69/200"
+        },
+        {
+            "index": 70,
+            "jawaban": "Kota Padang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/70/200"
+        },
+        {
+            "index": 71,
+            "jawaban": "Kota Padangpanjang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/71/200"
+        },
+        {
+            "index": 72,
+            "jawaban": "Kota Pariaman",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/72/200"
+        },
+        {
+            "index": 73,
+            "jawaban": "Kota Payakumbuh",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/73/200"
+        },
+        {
+            "index": 74,
+            "jawaban": "Kota Sawahlunto",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/74/200"
+        },
+        {
+            "index": 75,
+            "jawaban": "Kota Solok",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/75/200"
+        },
+        {
+            "index": 76,
+            "jawaban": "Kabupaten Bengkalis",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/76/200"
+        },
+        {
+            "index": 77,
+            "jawaban": "Kabupaten Indragiri Hilir",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/77/200"
+        },
+        {
+            "index": 78,
+            "jawaban": "Kabupaten Indragiri Hulu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/78/200"
+        },
+        {
+            "index": 79,
+            "jawaban": "Kabupaten Kampar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/79/200"
+        },
+        {
+            "index": 80,
+            "jawaban": "Kabupaten Kepulauan Meranti",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/80/200"
+        },
+        {
+            "index": 81,
+            "jawaban": "Kabupaten Kuantan Singingi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/81/200"
+        },
+        {
+            "index": 82,
+            "jawaban": "Kabupaten Pelalawan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/82/200"
+        },
+        {
+            "index": 83,
+            "jawaban": "Kabupaten Rokan Hilir",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/83/200"
+        },
+        {
+            "index": 84,
+            "jawaban": "Kabupaten Rokan Hulu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/84/200"
+        },
+        {
+            "index": 85,
+            "jawaban": "Kabupaten Siak",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/85/200"
+        },
+        {
+            "index": 86,
+            "jawaban": "Kota Dumai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/86/200"
+        },
+        {
+            "index": 87,
+            "jawaban": "Kota Pekanbaru",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/87/200"
+        },
+        {
+            "index": 88,
+            "jawaban": "Kabupaten Bintan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/88/200"
+        },
+        {
+            "index": 89,
+            "jawaban": "Kabupaten Karimun",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/89/200"
+        },
+        {
+            "index": 90,
+            "jawaban": "Kabupaten Kepulauan Anambas",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/90/200"
+        },
+        {
+            "index": 91,
+            "jawaban": "Kabupaten Lingga",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/91/200"
+        },
+        {
+            "index": 92,
+            "jawaban": "Kabupaten Natuna",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/92/200"
+        },
+        {
+            "index": 93,
+            "jawaban": "Kota Batam",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/93/200"
+        },
+        {
+            "index": 94,
+            "jawaban": "Kota Tanjungpinang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/94/200"
+        },
+        {
+            "index": 95,
+            "jawaban": "Kabupaten Batanghari",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/95/200"
+        },
+        {
+            "index": 96,
+            "jawaban": "Kabupaten Bungo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/96/200"
+        },
+        {
+            "index": 97,
+            "jawaban": "Kabupaten Kerinci",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/97/200"
+        },
+        {
+            "index": 98,
+            "jawaban": "Kabupaten Merangin",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/98/200"
+        },
+        {
+            "index": 99,
+            "jawaban": "Kabupaten Muaro Jambi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/99/200"
+        },
+        {
+            "index": 100,
+            "jawaban": "Kabupaten Sarolangun",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/100/200"
+        },
+        {
+            "index": 101,
+            "jawaban": "Kabupaten Tanjung Jabung Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/101/200"
+        },
+        {
+            "index": 102,
+            "jawaban": "Kabupaten Tanjung Jabung Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/102/200"
+        },
+        {
+            "index": 103,
+            "jawaban": "Kabupaten Tebo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/103/200"
+        },
+        {
+            "index": 104,
+            "jawaban": "Kota Jambi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/104/200"
+        },
+        {
+            "index": 105,
+            "jawaban": "Kota Sungai Penuh",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/105/200"
+        },
+        {
+            "index": 106,
+            "jawaban": "Kabupaten Banyuasin",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/106/200"
+        },
+        {
+            "index": 107,
+            "jawaban": "Kabupaten Empat Lawang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/107/200"
+        },
+        {
+            "index": 108,
+            "jawaban": "Kabupaten Lahat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/108/200"
+        },
+        {
+            "index": 109,
+            "jawaban": "Kabupaten Muara Enim",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/109/200"
+        },
+        {
+            "index": 110,
+            "jawaban": "Kabupaten Musi Banyuasin",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/110/200"
+        },
+        {
+            "index": 111,
+            "jawaban": "Kabupaten Musi Rawas",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/111/200"
+        },
+        {
+            "index": 112,
+            "jawaban": "Kabupaten Musi Rawas Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/112/200"
+        },
+        {
+            "index": 113,
+            "jawaban": "Kabupaten Ogan Ilir",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/113/200"
+        },
+        {
+            "index": 114,
+            "jawaban": "Kabupaten Ogan Komering Ilir",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/114/200"
+        },
+        {
+            "index": 115,
+            "jawaban": "Kabupaten Ogan Komering Ulu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/115/200"
+        },
+        {
+            "index": 116,
+            "jawaban": "Kabupaten Ogan Komering Ulu Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/116/200"
+        },
+        {
+            "index": 117,
+            "jawaban": "Kabupaten Ogan Komering Ulu Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/117/200"
+        },
+        {
+            "index": 118,
+            "jawaban": "Kabupaten Penukal Abab Lematang Ilir",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/118/200"
+        },
+        {
+            "index": 119,
+            "jawaban": "Kota Lubuklinggau",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/119/200"
+        },
+        {
+            "index": 120,
+            "jawaban": "Kota Pagar Alam",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/120/200"
+        },
+        {
+            "index": 121,
+            "jawaban": "Kota Palembang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/121/200"
+        },
+        {
+            "index": 122,
+            "jawaban": "Kota Prabumulih",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/122/200"
+        },
+        {
+            "index": 123,
+            "jawaban": "Kabupaten Bengkulu Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/123/200"
+        },
+        {
+            "index": 124,
+            "jawaban": "Kabupaten Bengkulu Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/124/200"
+        },
+        {
+            "index": 125,
+            "jawaban": "Kabupaten Bengkulu Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/125/200"
+        },
+        {
+            "index": 126,
+            "jawaban": "Kabupaten Kaur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/126/200"
+        },
+        {
+            "index": 127,
+            "jawaban": "Kabupaten Kepahiang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/127/200"
+        },
+        {
+            "index": 128,
+            "jawaban": "Kabupaten Lebong",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/128/200"
+        },
+        {
+            "index": 129,
+            "jawaban": "Kabupaten Mukomuko",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/129/200"
+        },
+        {
+            "index": 130,
+            "jawaban": "Kabupaten Rejang Lebong",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/130/200"
+        },
+        {
+            "index": 131,
+            "jawaban": "Kabupaten Seluma",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/131/200"
+        },
+        {
+            "index": 132,
+            "jawaban": "Kota Bengkulu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/132/200"
+        },
+        {
+            "index": 133,
+            "jawaban": "Kabupaten Bangka",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/133/200"
+        },
+        {
+            "index": 134,
+            "jawaban": "Kabupaten Bangka Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/134/200"
+        },
+        {
+            "index": 135,
+            "jawaban": "Kabupaten Bangka Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/135/200"
+        },
+        {
+            "index": 136,
+            "jawaban": "Kabupaten Bangka Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/136/200"
+        },
+        {
+            "index": 137,
+            "jawaban": "Kabupaten Belitung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/137/200"
+        },
+        {
+            "index": 138,
+            "jawaban": "Kabupaten Belitung Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/138/200"
+        },
+        {
+            "index": 139,
+            "jawaban": "Kota Pangkal Pinang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/139/200"
+        },
+        {
+            "index": 140,
+            "jawaban": "Kabupaten Lampung Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/140/200"
+        },
+        {
+            "index": 141,
+            "jawaban": "Kabupaten Lampung Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/141/200"
+        },
+        {
+            "index": 142,
+            "jawaban": "Kabupaten Lampung Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/142/200"
+        },
+        {
+            "index": 143,
+            "jawaban": "Kabupaten Lampung Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/143/200"
+        },
+        {
+            "index": 144,
+            "jawaban": "Kabupaten Lampung Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/144/200"
+        },
+        {
+            "index": 145,
+            "jawaban": "Kabupaten Mesuji",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/145/200"
+        },
+        {
+            "index": 146,
+            "jawaban": "Kabupaten Pesawaran",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/146/200"
+        },
+        {
+            "index": 147,
+            "jawaban": "Kabupaten Pesisir Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/147/200"
+        },
+        {
+            "index": 148,
+            "jawaban": "Kabupaten Pringsewu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/148/200"
+        },
+        {
+            "index": 149,
+            "jawaban": "Kabupaten Tanggamus",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/149/200"
+        },
+        {
+            "index": 150,
+            "jawaban": "Kabupaten Tulang Bawang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/150/200"
+        },
+        {
+            "index": 151,
+            "jawaban": "Kabupaten Tulang Bawang Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/151/200"
+        },
+        {
+            "index": 152,
+            "jawaban": "Kabupaten Way Kanan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/152/200"
+        },
+        {
+            "index": 153,
+            "jawaban": "Kota Bandar Lampung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/153/200"
+        },
+        {
+            "index": 154,
+            "jawaban": "Kota Metro",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/154/200"
+        },
+        {
+            "index": 155,
+            "jawaban": "Kabupaten Lebak",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/155/200"
+        },
+        {
+            "index": 156,
+            "jawaban": "Kabupaten Pandeglang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/156/200"
+        },
+        {
+            "index": 157,
+            "jawaban": "Kabupaten Serang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/157/200"
+        },
+        {
+            "index": 158,
+            "jawaban": "Kabupaten Tangerang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/158/200"
+        },
+        {
+            "index": 159,
+            "jawaban": "Kota Cilegon",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/159/200"
+        },
+        {
+            "index": 160,
+            "jawaban": "Kota Serang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/160/200"
+        },
+        {
+            "index": 161,
+            "jawaban": "Kota Tangerang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/161/200"
+        },
+        {
+            "index": 162,
+            "jawaban": "Kota Tangerang Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/162/200"
+        },
+        {
+            "index": 163,
+            "jawaban": "Kabupaten Administrasi Kepulauan Seribu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/163/200"
+        },
+        {
+            "index": 164,
+            "jawaban": "Kota Administrasi Jakarta Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/164/200"
+        },
+        {
+            "index": 165,
+            "jawaban": "Kota Administrasi Jakarta Pusat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/165/200"
+        },
+        {
+            "index": 166,
+            "jawaban": "Kota Administrasi Jakarta Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/166/200"
+        },
+        {
+            "index": 167,
+            "jawaban": "Kota Administrasi Jakarta Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/167/200"
+        },
+        {
+            "index": 168,
+            "jawaban": "Kota Administrasi Jakarta Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/168/200"
+        },
+        {
+            "index": 169,
+            "jawaban": "Kabupaten Bandung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/169/200"
+        },
+        {
+            "index": 170,
+            "jawaban": "Kabupaten Bandung Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/170/200"
+        },
+        {
+            "index": 171,
+            "jawaban": "Kabupaten Bekasi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/171/200"
+        },
+        {
+            "index": 172,
+            "jawaban": "Kabupaten Bogor",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/172/200"
+        },
+        {
+            "index": 173,
+            "jawaban": "Kabupaten Ciamis",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/173/200"
+        },
+        {
+            "index": 174,
+            "jawaban": "Kabupaten Cianjur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/174/200"
+        },
+        {
+            "index": 175,
+            "jawaban": "Kabupaten Cirebon",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/175/200"
+        },
+        {
+            "index": 176,
+            "jawaban": "Kabupaten Garut",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/176/200"
+        },
+        {
+            "index": 177,
+            "jawaban": "Kabupaten Indramayu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/177/200"
+        },
+        {
+            "index": 178,
+            "jawaban": "Kabupaten Karawang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/178/200"
+        },
+        {
+            "index": 179,
+            "jawaban": "Kabupaten Kuningan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/179/200"
+        },
+        {
+            "index": 180,
+            "jawaban": "Kabupaten Majalengka",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/180/200"
+        },
+        {
+            "index": 181,
+            "jawaban": "Kabupaten Pangandaran",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/181/200"
+        },
+        {
+            "index": 182,
+            "jawaban": "Kabupaten Purwakarta",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/182/200"
+        },
+        {
+            "index": 183,
+            "jawaban": "Kabupaten Subang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/183/200"
+        },
+        {
+            "index": 184,
+            "jawaban": "Kabupaten Sukabumi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/184/200"
+        },
+        {
+            "index": 185,
+            "jawaban": "Kabupaten Sumedang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/185/200"
+        },
+        {
+            "index": 186,
+            "jawaban": "Kabupaten Tasikmalaya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/186/200"
+        },
+        {
+            "index": 187,
+            "jawaban": "Kota Bandung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/187/200"
+        },
+        {
+            "index": 188,
+            "jawaban": "Kota Banjar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/188/200"
+        },
+        {
+            "index": 189,
+            "jawaban": "Kota Bekasi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/189/200"
+        },
+        {
+            "index": 190,
+            "jawaban": "Kota Bogor",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/190/200"
+        },
+        {
+            "index": 191,
+            "jawaban": "Kota Cimahi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/191/200"
+        },
+        {
+            "index": 192,
+            "jawaban": "Kota Cirebon",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/192/200"
+        },
+        {
+            "index": 193,
+            "jawaban": "Kota Depok",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/193/200"
+        },
+        {
+            "index": 194,
+            "jawaban": "Kota Sukabumi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/194/200"
+        },
+        {
+            "index": 195,
+            "jawaban": "Kota Tasikmalaya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/195/200"
+        },
+        {
+            "index": 196,
+            "jawaban": "Kabupaten Banjarnegara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/196/200"
+        },
+        {
+            "index": 197,
+            "jawaban": "Kabupaten Banyumas",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/197/200"
+        },
+        {
+            "index": 198,
+            "jawaban": "Kabupaten Batang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/198/200"
+        },
+        {
+            "index": 199,
+            "jawaban": "Kabupaten Blora",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/199/200"
+        },
+        {
+            "index": 200,
+            "jawaban": "Kabupaten Boyolali",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/200/200"
+        },
+        {
+            "index": 201,
+            "jawaban": "Kabupaten Brebes",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/201/200"
+        },
+        {
+            "index": 202,
+            "jawaban": "Kabupaten Cilacap",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/202/200"
+        },
+        {
+            "index": 203,
+            "jawaban": "Kabupaten Demak",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/203/200"
+        },
+        {
+            "index": 204,
+            "jawaban": "Kabupaten Grobogan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/204/200"
+        },
+        {
+            "index": 205,
+            "jawaban": "Kabupaten Jepara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/205/200"
+        },
+        {
+            "index": 206,
+            "jawaban": "Kabupaten Karanganyar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/206/200"
+        },
+        {
+            "index": 207,
+            "jawaban": "Kabupaten Kebumen",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/207/200"
+        },
+        {
+            "index": 208,
+            "jawaban": "Kabupaten Kendal",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/208/200"
+        },
+        {
+            "index": 209,
+            "jawaban": "Kabupaten Klaten",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/209/200"
+        },
+        {
+            "index": 210,
+            "jawaban": "Kabupaten Kudus",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/210/200"
+        },
+        {
+            "index": 211,
+            "jawaban": "Kabupaten Magelang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/211/200"
+        },
+        {
+            "index": 212,
+            "jawaban": "Kabupaten Pati",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/212/200"
+        },
+        {
+            "index": 213,
+            "jawaban": "Kabupaten Pekalongan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/213/200"
+        },
+        {
+            "index": 214,
+            "jawaban": "Kabupaten Pemalang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/214/200"
+        },
+        {
+            "index": 215,
+            "jawaban": "Kabupaten Purbalingga",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/215/200"
+        },
+        {
+            "index": 216,
+            "jawaban": "Kabupaten Purworejo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/216/200"
+        },
+        {
+            "index": 217,
+            "jawaban": "Kabupaten Rembang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/217/200"
+        },
+        {
+            "index": 218,
+            "jawaban": "Kabupaten Semarang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/218/200"
+        },
+        {
+            "index": 219,
+            "jawaban": "Kabupaten Sragen",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/219/200"
+        },
+        {
+            "index": 220,
+            "jawaban": "Kabupaten Sukoharjo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/220/200"
+        },
+        {
+            "index": 221,
+            "jawaban": "Kabupaten Tegal",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/221/200"
+        },
+        {
+            "index": 222,
+            "jawaban": "Kabupaten Temanggung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/222/200"
+        },
+        {
+            "index": 223,
+            "jawaban": "Kabupaten Wonogiri",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/223/200"
+        },
+        {
+            "index": 224,
+            "jawaban": "Kabupaten Wonosobo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/224/200"
+        },
+        {
+            "index": 225,
+            "jawaban": "Kota Magelang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/225/200"
+        },
+        {
+            "index": 226,
+            "jawaban": "Kota Pekalongan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/226/200"
+        },
+        {
+            "index": 227,
+            "jawaban": "Kota Salatiga",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/227/200"
+        },
+        {
+            "index": 228,
+            "jawaban": "Kota Semarang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/228/200"
+        },
+        {
+            "index": 229,
+            "jawaban": "Kota Surakarta",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/229/200"
+        },
+        {
+            "index": 230,
+            "jawaban": "Kota Tegal",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/230/200"
+        },
+        {
+            "index": 231,
+            "jawaban": "Kabupaten Bantul",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/231/200"
+        },
+        {
+            "index": 232,
+            "jawaban": "Kabupaten Gunung Kidul",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/232/200"
+        },
+        {
+            "index": 233,
+            "jawaban": "Kabupaten Kulon Progo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/233/200"
+        },
+        {
+            "index": 234,
+            "jawaban": "Kabupaten Sleman",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/234/200"
+        },
+        {
+            "index": 235,
+            "jawaban": "Kota Yogyakarta",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/235/200"
+        },
+        {
+            "index": 236,
+            "jawaban": "Kabupaten Bangkalan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/236/200"
+        },
+        {
+            "index": 237,
+            "jawaban": "Kabupaten Banyuwangi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/237/200"
+        },
+        {
+            "index": 238,
+            "jawaban": "Kabupaten Blitar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/238/200"
+        },
+        {
+            "index": 239,
+            "jawaban": "Kabupaten Bojonegoro",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/239/200"
+        },
+        {
+            "index": 240,
+            "jawaban": "Kabupaten Bondowoso",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/240/200"
+        },
+        {
+            "index": 241,
+            "jawaban": "Kabupaten Gresik",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/241/200"
+        },
+        {
+            "index": 242,
+            "jawaban": "Kabupaten Jember",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/242/200"
+        },
+        {
+            "index": 243,
+            "jawaban": "Kabupaten Jombang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/243/200"
+        },
+        {
+            "index": 244,
+            "jawaban": "Kabupaten Kediri",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/244/200"
+        },
+        {
+            "index": 245,
+            "jawaban": "Kabupaten Lamongan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/245/200"
+        },
+        {
+            "index": 246,
+            "jawaban": "Kabupaten Lumajang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/246/200"
+        },
+        {
+            "index": 247,
+            "jawaban": "Kabupaten Madiun",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/247/200"
+        },
+        {
+            "index": 248,
+            "jawaban": "Kabupaten Magetan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/248/200"
+        },
+        {
+            "index": 249,
+            "jawaban": "Kabupaten Malang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/249/200"
+        },
+        {
+            "index": 250,
+            "jawaban": "Kabupaten Mojokerto",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/250/200"
+        },
+        {
+            "index": 251,
+            "jawaban": "Kabupaten Nganjuk",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/251/200"
+        },
+        {
+            "index": 252,
+            "jawaban": "Kabupaten Ngawi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/252/200"
+        },
+        {
+            "index": 253,
+            "jawaban": "Kabupaten Pacitan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/253/200"
+        },
+        {
+            "index": 254,
+            "jawaban": "Kabupaten Pamekasan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/254/200"
+        },
+        {
+            "index": 255,
+            "jawaban": "Kabupaten Pasuruan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/255/200"
+        },
+        {
+            "index": 256,
+            "jawaban": "Kabupaten Ponorogo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/256/200"
+        },
+        {
+            "index": 257,
+            "jawaban": "Kabupaten Probolinggo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/257/200"
+        },
+        {
+            "index": 258,
+            "jawaban": "Kabupaten Sampang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/258/200"
+        },
+        {
+            "index": 259,
+            "jawaban": "Kabupaten Sidoarjo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/259/200"
+        },
+        {
+            "index": 260,
+            "jawaban": "Kabupaten Situbondo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/260/200"
+        },
+        {
+            "index": 261,
+            "jawaban": "Kabupaten Sumenep",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/261/200"
+        },
+        {
+            "index": 262,
+            "jawaban": "Kabupaten Trenggalek",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/262/200"
+        },
+        {
+            "index": 263,
+            "jawaban": "Kabupaten Tuban",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/263/200"
+        },
+        {
+            "index": 264,
+            "jawaban": "Kabupaten Tulungagung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/264/200"
+        },
+        {
+            "index": 265,
+            "jawaban": "Kota Batu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/265/200"
+        },
+        {
+            "index": 266,
+            "jawaban": "Kota Blitar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/266/200"
+        },
+        {
+            "index": 267,
+            "jawaban": "Kota Kediri",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/267/200"
+        },
+        {
+            "index": 268,
+            "jawaban": "Kota Madiun",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/268/200"
+        },
+        {
+            "index": 269,
+            "jawaban": "Kota Malang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/269/200"
+        },
+        {
+            "index": 270,
+            "jawaban": "Kota Mojokerto",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/270/200"
+        },
+        {
+            "index": 271,
+            "jawaban": "Kota Pasuruan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/271/200"
+        },
+        {
+            "index": 272,
+            "jawaban": "Kota Probolinggo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/272/200"
+        },
+        {
+            "index": 273,
+            "jawaban": "Kota Surabaya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/273/200"
+        },
+        {
+            "index": 274,
+            "jawaban": "Kabupaten Badung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/274/200"
+        },
+        {
+            "index": 275,
+            "jawaban": "Kabupaten Bangli",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/275/200"
+        },
+        {
+            "index": 276,
+            "jawaban": "Kabupaten Buleleng",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/276/200"
+        },
+        {
+            "index": 277,
+            "jawaban": "Kabupaten Gianyar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/277/200"
+        },
+        {
+            "index": 278,
+            "jawaban": "Kabupaten Jembrana",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/278/200"
+        },
+        {
+            "index": 279,
+            "jawaban": "Kabupaten Karangasem",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/279/200"
+        },
+        {
+            "index": 280,
+            "jawaban": "Kabupaten Klungkung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/280/200"
+        },
+        {
+            "index": 281,
+            "jawaban": "Kabupaten Tabanan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/281/200"
+        },
+        {
+            "index": 282,
+            "jawaban": "Kota Denpasar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/282/200"
+        },
+        {
+            "index": 283,
+            "jawaban": "Kabupaten Bima",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/283/200"
+        },
+        {
+            "index": 284,
+            "jawaban": "Kabupaten Dompu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/284/200"
+        },
+        {
+            "index": 285,
+            "jawaban": "Kabupaten Lombok Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/285/200"
+        },
+        {
+            "index": 286,
+            "jawaban": "Kabupaten Lombok Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/286/200"
+        },
+        {
+            "index": 287,
+            "jawaban": "Kabupaten Lombok Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/287/200"
+        },
+        {
+            "index": 288,
+            "jawaban": "Kabupaten Lombok Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/288/200"
+        },
+        {
+            "index": 289,
+            "jawaban": "Kabupaten Sumbawa",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/289/200"
+        },
+        {
+            "index": 290,
+            "jawaban": "Kabupaten Sumbawa Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/290/200"
+        },
+        {
+            "index": 291,
+            "jawaban": "Kota Bima",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/291/200"
+        },
+        {
+            "index": 292,
+            "jawaban": "Kota Mataram",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/292/200"
+        },
+        {
+            "index": 293,
+            "jawaban": "Kabupaten Alor",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/293/200"
+        },
+        {
+            "index": 294,
+            "jawaban": "Kabupaten Belu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/294/200"
+        },
+        {
+            "index": 295,
+            "jawaban": "Kabupaten Ende",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/295/200"
+        },
+        {
+            "index": 296,
+            "jawaban": "Kabupaten Flores Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/296/200"
+        },
+        {
+            "index": 297,
+            "jawaban": "Kabupaten Kupang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/297/200"
+        },
+        {
+            "index": 298,
+            "jawaban": "Kabupaten Lembata",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/298/200"
+        },
+        {
+            "index": 299,
+            "jawaban": "Kabupaten Malaka",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/299/200"
+        },
+        {
+            "index": 300,
+            "jawaban": "Kabupaten Manggarai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/300/200"
+        },
+        {
+            "index": 301,
+            "jawaban": "Kabupaten Manggarai Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/301/200"
+        },
+        {
+            "index": 302,
+            "jawaban": "Kabupaten Manggarai Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/302/200"
+        },
+        {
+            "index": 303,
+            "jawaban": "Kabupaten Ngada",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/303/200"
+        },
+        {
+            "index": 304,
+            "jawaban": "Kabupaten Nagekeo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/304/200"
+        },
+        {
+            "index": 305,
+            "jawaban": "Kabupaten Rote Ndao",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/305/200"
+        },
+        {
+            "index": 306,
+            "jawaban": "Kabupaten Sabu Raijua",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/306/200"
+        },
+        {
+            "index": 307,
+            "jawaban": "Kabupaten Sikka",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/307/200"
+        },
+        {
+            "index": 308,
+            "jawaban": "Kabupaten Sumba Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/308/200"
+        },
+        {
+            "index": 309,
+            "jawaban": "Kabupaten Sumba Barat Daya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/309/200"
+        },
+        {
+            "index": 310,
+            "jawaban": "Kabupaten Sumba Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/310/200"
+        },
+        {
+            "index": 311,
+            "jawaban": "Kabupaten Sumba Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/311/200"
+        },
+        {
+            "index": 312,
+            "jawaban": "Kabupaten Timor Tengah Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/312/200"
+        },
+        {
+            "index": 313,
+            "jawaban": "Kabupaten Timor Tengah Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/313/200"
+        },
+        {
+            "index": 314,
+            "jawaban": "Kota Kupang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/314/200"
+        },
+        {
+            "index": 315,
+            "jawaban": "Kabupaten Bengkayang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/315/200"
+        },
+        {
+            "index": 316,
+            "jawaban": "Kabupaten Kapuas Hulu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/316/200"
+        },
+        {
+            "index": 317,
+            "jawaban": "Kabupaten Kayong Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/317/200"
+        },
+        {
+            "index": 318,
+            "jawaban": "Kabupaten Ketapang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/318/200"
+        },
+        {
+            "index": 319,
+            "jawaban": "Kabupaten Kubu Raya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/319/200"
+        },
+        {
+            "index": 320,
+            "jawaban": "Kabupaten Landak",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/320/200"
+        },
+        {
+            "index": 321,
+            "jawaban": "Kabupaten Melawi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/321/200"
+        },
+        {
+            "index": 322,
+            "jawaban": "Kabupaten Mempawah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/322/200"
+        },
+        {
+            "index": 323,
+            "jawaban": "Kabupaten Sambas",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/323/200"
+        },
+        {
+            "index": 324,
+            "jawaban": "Kabupaten Sanggau",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/324/200"
+        },
+        {
+            "index": 325,
+            "jawaban": "Kabupaten Sekadau",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/325/200"
+        },
+        {
+            "index": 326,
+            "jawaban": "Kabupaten Sintang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/326/200"
+        },
+        {
+            "index": 327,
+            "jawaban": "Kota Pontianak",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/327/200"
+        },
+        {
+            "index": 328,
+            "jawaban": "Kota Singkawang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/328/200"
+        },
+        {
+            "index": 329,
+            "jawaban": "Kabupaten Barito Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/329/200"
+        },
+        {
+            "index": 330,
+            "jawaban": "Kabupaten Barito Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/330/200"
+        },
+        {
+            "index": 331,
+            "jawaban": "Kabupaten Barito Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/331/200"
+        },
+        {
+            "index": 332,
+            "jawaban": "Kabupaten Gunung Mas",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/332/200"
+        },
+        {
+            "index": 333,
+            "jawaban": "Kabupaten Kapuas",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/333/200"
+        },
+        {
+            "index": 334,
+            "jawaban": "Kabupaten Katingan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/334/200"
+        },
+        {
+            "index": 335,
+            "jawaban": "Kabupaten Kotawaringin Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/335/200"
+        },
+        {
+            "index": 336,
+            "jawaban": "Kabupaten Kotawaringin Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/336/200"
+        },
+        {
+            "index": 337,
+            "jawaban": "Kabupaten Lamandau",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/337/200"
+        },
+        {
+            "index": 338,
+            "jawaban": "Kabupaten Murung Raya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/338/200"
+        },
+        {
+            "index": 339,
+            "jawaban": "Kabupaten Pulang Pisau",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/339/200"
+        },
+        {
+            "index": 340,
+            "jawaban": "Kabupaten Sukamara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/340/200"
+        },
+        {
+            "index": 341,
+            "jawaban": "Kabupaten Seruyan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/341/200"
+        },
+        {
+            "index": 342,
+            "jawaban": "Kota Palangka Raya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/342/200"
+        },
+        {
+            "index": 343,
+            "jawaban": "Kabupaten Balangan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/343/200"
+        },
+        {
+            "index": 344,
+            "jawaban": "Kabupaten Banjar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/344/200"
+        },
+        {
+            "index": 345,
+            "jawaban": "Kabupaten Barito Kuala",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/345/200"
+        },
+        {
+            "index": 346,
+            "jawaban": "Kabupaten Hulu Sungai Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/346/200"
+        },
+        {
+            "index": 347,
+            "jawaban": "Kabupaten Hulu Sungai Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/347/200"
+        },
+        {
+            "index": 348,
+            "jawaban": "Kabupaten Hulu Sungai Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/348/200"
+        },
+        {
+            "index": 349,
+            "jawaban": "Kabupaten Kotabaru",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/349/200"
+        },
+        {
+            "index": 350,
+            "jawaban": "Kabupaten Tabalong",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/350/200"
+        },
+        {
+            "index": 351,
+            "jawaban": "Kabupaten Tanah Bumbu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/351/200"
+        },
+        {
+            "index": 352,
+            "jawaban": "Kabupaten Tanah Laut",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/352/200"
+        },
+        {
+            "index": 353,
+            "jawaban": "Kabupaten Tapin",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/353/200"
+        },
+        {
+            "index": 354,
+            "jawaban": "Kota Banjarbaru",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/354/200"
+        },
+        {
+            "index": 355,
+            "jawaban": "Kota Banjarmasin",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/355/200"
+        },
+        {
+            "index": 356,
+            "jawaban": "Kabupaten Berau",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/356/200"
+        },
+        {
+            "index": 357,
+            "jawaban": "Kabupaten Kutai Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/357/200"
+        },
+        {
+            "index": 358,
+            "jawaban": "Kabupaten Kutai Kartanegara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/358/200"
+        },
+        {
+            "index": 359,
+            "jawaban": "Kabupaten Kutai Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/359/200"
+        },
+        {
+            "index": 360,
+            "jawaban": "Kabupaten Mahakam Ulu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/360/200"
+        },
+        {
+            "index": 361,
+            "jawaban": "Kabupaten Paser",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/361/200"
+        },
+        {
+            "index": 362,
+            "jawaban": "Kabupaten Penajam Paser Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/362/200"
+        },
+        {
+            "index": 363,
+            "jawaban": "Kota Balikpapan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/363/200"
+        },
+        {
+            "index": 364,
+            "jawaban": "Kota Bontang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/364/200"
+        },
+        {
+            "index": 365,
+            "jawaban": "Kota Samarinda",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/365/200"
+        },
+        {
+            "index": 366,
+            "jawaban": "Kabupaten Bulungan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/366/200"
+        },
+        {
+            "index": 367,
+            "jawaban": "Kabupaten Malinau",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/367/200"
+        },
+        {
+            "index": 368,
+            "jawaban": "Kabupaten Nunukan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/368/200"
+        },
+        {
+            "index": 369,
+            "jawaban": "Kabupaten Tana Tidung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/369/200"
+        },
+        {
+            "index": 370,
+            "jawaban": "Kota Tarakan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/370/200"
+        },
+        {
+            "index": 371,
+            "jawaban": "Kabupaten Majene",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/371/200"
+        },
+        {
+            "index": 372,
+            "jawaban": "Kabupaten Mamasa",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/372/200"
+        },
+        {
+            "index": 373,
+            "jawaban": "Kabupaten Mamuju",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/373/200"
+        },
+        {
+            "index": 374,
+            "jawaban": "Kabupaten Mamuju Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/374/200"
+        },
+        {
+            "index": 375,
+            "jawaban": "Kabupaten Pasangkayu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/375/200"
+        },
+        {
+            "index": 376,
+            "jawaban": "Kabupaten Polewali Mandar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/376/200"
+        },
+        {
+            "index": 377,
+            "jawaban": "Kabupaten Bantaeng",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/377/200"
+        },
+        {
+            "index": 378,
+            "jawaban": "Kabupaten Barru",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/378/200"
+        },
+        {
+            "index": 379,
+            "jawaban": "Kabupaten Bone",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/379/200"
+        },
+        {
+            "index": 380,
+            "jawaban": "Kabupaten Bulukumba",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/380/200"
+        },
+        {
+            "index": 381,
+            "jawaban": "Kabupaten Enrekang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/381/200"
+        },
+        {
+            "index": 382,
+            "jawaban": "Kabupaten Gowa",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/382/200"
+        },
+        {
+            "index": 383,
+            "jawaban": "Kabupaten Jeneponto",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/383/200"
+        },
+        {
+            "index": 384,
+            "jawaban": "Kabupaten Kepulauan Selayar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/384/200"
+        },
+        {
+            "index": 385,
+            "jawaban": "Kabupaten Luwu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/385/200"
+        },
+        {
+            "index": 386,
+            "jawaban": "Kabupaten Luwu Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/386/200"
+        },
+        {
+            "index": 387,
+            "jawaban": "Kabupaten Luwu Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/387/200"
+        },
+        {
+            "index": 388,
+            "jawaban": "Kabupaten Maros",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/388/200"
+        },
+        {
+            "index": 389,
+            "jawaban": "Kabupaten Pangkajene dan Kepulauan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/389/200"
+        },
+        {
+            "index": 390,
+            "jawaban": "Kabupaten Pinrang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/390/200"
+        },
+        {
+            "index": 391,
+            "jawaban": "Kabupaten Sidenreng Rappang (Sidrap)",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/391/200"
+        },
+        {
+            "index": 392,
+            "jawaban": "Kabupaten Sinjai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/392/200"
+        },
+        {
+            "index": 393,
+            "jawaban": "Kabupaten Soppeng",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/393/200"
+        },
+        {
+            "index": 394,
+            "jawaban": "Kabupaten Takalar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/394/200"
+        },
+        {
+            "index": 395,
+            "jawaban": "Kabupaten Tana Toraja",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/395/200"
+        },
+        {
+            "index": 396,
+            "jawaban": "Kabupaten Toraja Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/396/200"
+        },
+        {
+            "index": 397,
+            "jawaban": "Kabupaten Wajo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/397/200"
+        },
+        {
+            "index": 398,
+            "jawaban": "Kota Makassar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/398/200"
+        },
+        {
+            "index": 399,
+            "jawaban": "Kota Palopo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/399/200"
+        },
+        {
+            "index": 400,
+            "jawaban": "Kota Parepare",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/400/200"
+        },
+        {
+            "index": 401,
+            "jawaban": "Kabupaten Bombana",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/401/200"
+        },
+        {
+            "index": 402,
+            "jawaban": "Kabupaten Buton",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/402/200"
+        },
+        {
+            "index": 403,
+            "jawaban": "Kabupaten Buton Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/403/200"
+        },
+        {
+            "index": 404,
+            "jawaban": "Kabupaten Buton Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/404/200"
+        },
+        {
+            "index": 405,
+            "jawaban": "Kabupaten Buton Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/405/200"
+        },
+        {
+            "index": 406,
+            "jawaban": "Kabupaten Kolaka",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/406/200"
+        },
+        {
+            "index": 407,
+            "jawaban": "Kabupaten Kolaka Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/407/200"
+        },
+        {
+            "index": 408,
+            "jawaban": "Kabupaten Kolaka Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/408/200"
+        },
+        {
+            "index": 409,
+            "jawaban": "Kabupaten Konawe",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/409/200"
+        },
+        {
+            "index": 410,
+            "jawaban": "Kabupaten Konawe Kepulauan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/410/200"
+        },
+        {
+            "index": 411,
+            "jawaban": "Kabupaten Konawe Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/411/200"
+        },
+        {
+            "index": 412,
+            "jawaban": "Kabupaten Konawe Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/412/200"
+        },
+        {
+            "index": 413,
+            "jawaban": "Kabupaten Muna",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/413/200"
+        },
+        {
+            "index": 414,
+            "jawaban": "Kabupaten Muna Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/414/200"
+        },
+        {
+            "index": 415,
+            "jawaban": "Kabupaten Wakatobi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/415/200"
+        },
+        {
+            "index": 416,
+            "jawaban": "Kota Baubau",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/416/200"
+        },
+        {
+            "index": 417,
+            "jawaban": "Kota Kendari",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/417/200"
+        },
+        {
+            "index": 418,
+            "jawaban": "Kabupaten Banggai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/418/200"
+        },
+        {
+            "index": 419,
+            "jawaban": "Kabupaten Banggai Kepulauan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/419/200"
+        },
+        {
+            "index": 420,
+            "jawaban": "Kabupaten Banggai Laut",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/420/200"
+        },
+        {
+            "index": 421,
+            "jawaban": "Kabupaten Buol",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/421/200"
+        },
+        {
+            "index": 422,
+            "jawaban": "Kabupaten Donggala",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/422/200"
+        },
+        {
+            "index": 423,
+            "jawaban": "Kabupaten Morowali",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/423/200"
+        },
+        {
+            "index": 424,
+            "jawaban": "Kabupaten Morowali Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/424/200"
+        },
+        {
+            "index": 425,
+            "jawaban": "Kabupaten Parigi Moutong",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/425/200"
+        },
+        {
+            "index": 426,
+            "jawaban": "Kabupaten Poso",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/426/200"
+        },
+        {
+            "index": 427,
+            "jawaban": "Kabupaten Sigi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/427/200"
+        },
+        {
+            "index": 428,
+            "jawaban": "Kabupaten Tojo Una-Una",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/428/200"
+        },
+        {
+            "index": 429,
+            "jawaban": "Kabupaten Tolitoli",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/429/200"
+        },
+        {
+            "index": 430,
+            "jawaban": "Kota Palu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/430/200"
+        },
+        {
+            "index": 431,
+            "jawaban": "Kabupaten Boalemo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/431/200"
+        },
+        {
+            "index": 432,
+            "jawaban": "Kabupaten Bone Bolango",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/432/200"
+        },
+        {
+            "index": 433,
+            "jawaban": "Kabupaten Gorontalo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/433/200"
+        },
+        {
+            "index": 434,
+            "jawaban": "Kabupaten Gorontalo Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/434/200"
+        },
+        {
+            "index": 435,
+            "jawaban": "Kabupaten Pohuwato",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/435/200"
+        },
+        {
+            "index": 436,
+            "jawaban": "Kota Gorontalo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/436/200"
+        },
+        {
+            "index": 437,
+            "jawaban": "Kabupaten Bolaang Mongondow",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/437/200"
+        },
+        {
+            "index": 438,
+            "jawaban": "Kabupaten Bolaang Mongondow Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/438/200"
+        },
+        {
+            "index": 439,
+            "jawaban": "Kabupaten Bolaang Mongondow Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/439/200"
+        },
+        {
+            "index": 440,
+            "jawaban": "Kabupaten Bolaang Mongondow Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/440/200"
+        },
+        {
+            "index": 441,
+            "jawaban": "Kabupaten Kepulauan Sangihe",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/441/200"
+        },
+        {
+            "index": 442,
+            "jawaban": "Kabupaten Kepulauan Siau Tagulandang Biaro (Sitaro)",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/442/200"
+        },
+        {
+            "index": 443,
+            "jawaban": "Kabupaten Kepulauan Talaud",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/443/200"
+        },
+        {
+            "index": 444,
+            "jawaban": "Kabupaten Minahasa",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/444/200"
+        },
+        {
+            "index": 445,
+            "jawaban": "Kabupaten Minahasa Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/445/200"
+        },
+        {
+            "index": 446,
+            "jawaban": "Kabupaten Minahasa Tenggara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/446/200"
+        },
+        {
+            "index": 447,
+            "jawaban": "Kabupaten Minahasa Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/447/200"
+        },
+        {
+            "index": 448,
+            "jawaban": "Kota Bitung",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/448/200"
+        },
+        {
+            "index": 449,
+            "jawaban": "Kota Kotamobagu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/449/200"
+        },
+        {
+            "index": 450,
+            "jawaban": "Kota Manado",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/450/200"
+        },
+        {
+            "index": 451,
+            "jawaban": "Kota Tomohon",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/451/200"
+        },
+        {
+            "index": 452,
+            "jawaban": "Kabupaten Buru",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/452/200"
+        },
+        {
+            "index": 453,
+            "jawaban": "Kabupaten Buru Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/453/200"
+        },
+        {
+            "index": 454,
+            "jawaban": "Kabupaten Kepulauan Aru",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/454/200"
+        },
+        {
+            "index": 455,
+            "jawaban": "Kabupaten Maluku Barat Daya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/455/200"
+        },
+        {
+            "index": 456,
+            "jawaban": "Kabupaten Maluku Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/456/200"
+        },
+        {
+            "index": 457,
+            "jawaban": "Kabupaten Maluku Tenggara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/457/200"
+        },
+        {
+            "index": 458,
+            "jawaban": "Kabupaten Kepulauan Tanimbar",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/458/200"
+        },
+        {
+            "index": 459,
+            "jawaban": "Kabupaten Seram Bagian Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/459/200"
+        },
+        {
+            "index": 460,
+            "jawaban": "Kabupaten Seram Bagian Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/460/200"
+        },
+        {
+            "index": 461,
+            "jawaban": "Kota Ambon",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/461/200"
+        },
+        {
+            "index": 462,
+            "jawaban": "Kota Tual",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/462/200"
+        },
+        {
+            "index": 463,
+            "jawaban": "Kabupaten Halmahera Barat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/463/200"
+        },
+        {
+            "index": 464,
+            "jawaban": "Kabupaten Halmahera Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/464/200"
+        },
+        {
+            "index": 465,
+            "jawaban": "Kabupaten Halmahera Timur",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/465/200"
+        },
+        {
+            "index": 466,
+            "jawaban": "Kabupaten Halmahera Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/466/200"
+        },
+        {
+            "index": 467,
+            "jawaban": "Kabupaten Halmahera Utara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/467/200"
+        },
+        {
+            "index": 468,
+            "jawaban": "Kabupaten Kepulauan Sula",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/468/200"
+        },
+        {
+            "index": 469,
+            "jawaban": "Kabupaten Pulau Morotai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/469/200"
+        },
+        {
+            "index": 470,
+            "jawaban": "Kabupaten Pulau Taliabu",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/470/200"
+        },
+        {
+            "index": 471,
+            "jawaban": "Kota Ternate",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/471/200"
+        },
+        {
+            "index": 472,
+            "jawaban": "Kota Tidore Kepulauan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/472/200"
+        },
+        {
+            "index": 473,
+            "jawaban": "Kabupaten Fakfak",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/473/200"
+        },
+        {
+            "index": 474,
+            "jawaban": "Kabupaten Kaimana",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/474/200"
+        },
+        {
+            "index": 475,
+            "jawaban": "Kabupaten Manokwari",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/475/200"
+        },
+        {
+            "index": 476,
+            "jawaban": "Kabupaten Manokwari Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/476/200"
+        },
+        {
+            "index": 477,
+            "jawaban": "Kabupaten Maybrat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/477/200"
+        },
+        {
+            "index": 478,
+            "jawaban": "Kabupaten Pegunungan Arfak",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/478/200"
+        },
+        {
+            "index": 479,
+            "jawaban": "Kabupaten Raja Ampat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/479/200"
+        },
+        {
+            "index": 480,
+            "jawaban": "Kabupaten Sorong",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/480/200"
+        },
+        {
+            "index": 481,
+            "jawaban": "Kabupaten Sorong Selatan",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/481/200"
+        },
+        {
+            "index": 482,
+            "jawaban": "Kabupaten Tambrauw",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/482/200"
+        },
+        {
+            "index": 483,
+            "jawaban": "Kabupaten Teluk Bintuni",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/483/200"
+        },
+        {
+            "index": 484,
+            "jawaban": "Kabupaten Teluk Wondama",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/484/200"
+        },
+        {
+            "index": 485,
+            "jawaban": "Kota Sorong",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/485/200"
+        },
+        {
+            "index": 486,
+            "jawaban": "Kabupaten Asmat",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/486/200"
+        },
+        {
+            "index": 487,
+            "jawaban": "Kabupaten Biak Numfor",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/487/200"
+        },
+        {
+            "index": 488,
+            "jawaban": "Kabupaten Boven Digoel",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/488/200"
+        },
+        {
+            "index": 489,
+            "jawaban": "Kabupaten Deiyai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/489/200"
+        },
+        {
+            "index": 490,
+            "jawaban": "Kabupaten Dogiyai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/490/200"
+        },
+        {
+            "index": 491,
+            "jawaban": "Kabupaten Intan Jaya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/491/200"
+        },
+        {
+            "index": 492,
+            "jawaban": "Kabupaten Jayapura",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/492/200"
+        },
+        {
+            "index": 493,
+            "jawaban": "Kabupaten Jayawijaya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/493/200"
+        },
+        {
+            "index": 494,
+            "jawaban": "Kabupaten Keerom",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/494/200"
+        },
+        {
+            "index": 495,
+            "jawaban": "Kabupaten Kepulauan Yapen",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/495/200"
+        },
+        {
+            "index": 496,
+            "jawaban": "Kabupaten Lanny Jaya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/496/200"
+        },
+        {
+            "index": 497,
+            "jawaban": "Kabupaten Mamberamo Raya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/497/200"
+        },
+        {
+            "index": 498,
+            "jawaban": "Kabupaten Mamberamo Tengah",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/498/200"
+        },
+        {
+            "index": 499,
+            "jawaban": "Kabupaten Mappi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/499/200"
+        },
+        {
+            "index": 500,
+            "jawaban": "Kabupaten Merauke",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/500/200"
+        },
+        {
+            "index": 501,
+            "jawaban": "Kabupaten Mimika",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/501/200"
+        },
+        {
+            "index": 502,
+            "jawaban": "Kabupaten Nabire",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/502/200"
+        },
+        {
+            "index": 503,
+            "jawaban": "Kabupaten Nduga",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/503/200"
+        },
+        {
+            "index": 504,
+            "jawaban": "Kabupaten Paniai",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/504/200"
+        },
+        {
+            "index": 505,
+            "jawaban": "Kabupaten Pegunungan Bintang",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/505/200"
+        },
+        {
+            "index": 506,
+            "jawaban": "Kabupaten Puncak",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/506/200"
+        },
+        {
+            "index": 507,
+            "jawaban": "Kabupaten Puncak Jaya",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/507/200"
+        },
+        {
+            "index": 508,
+            "jawaban": "Kabupaten Sarmi",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/508/200"
+        },
+        {
+            "index": 509,
+            "jawaban": "Kabupaten Supiori",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/509/200"
+        },
+        {
+            "index": 510,
+            "jawaban": "Kabupaten Tolikara",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/510/200"
+        },
+        {
+            "index": 511,
+            "jawaban": "Kabupaten Waropen",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/511/200"
+        },
+        {
+            "index": 512,
+            "jawaban": "Kabupaten Yahukimo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/512/200"
+        },
+        {
+            "index": 513,
+            "jawaban": "Kabupaten Yalimo",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/513/200"
+        },
+        {
+            "index": 514,
+            "jawaban": "Kota Jayapura",
+            "img": "https://feriirawan-api.herokuapp.com/list/symbols/regency/514/200"
+        }
+    ]
