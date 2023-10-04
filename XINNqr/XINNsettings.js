@@ -1,18 +1,18 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = '6282143067466@s.whatsapp.net'
-global.namabotnya = '~XIN WhatsApp LLc~'
-global.namaownernya = 'Xinn Kenji Fong'
-global.packname = '©Powered By Xinn Kenji|+62🇲🇨\nIG: @xinnchan_795'
-global.author = 'Wa : +62 858-7797-7696\nYT : XinnChan'
+global.owner = '6285704026706@s.whatsapp.net'
+global.namabotnya = '~BABOTZ AI'
+global.namaownernya = 'Aril Narindra'
+global.packname = '©Powered By ArilNarindra|+62🇲🇨\nIG: @xinnchan_795'
+global.author = 'Wa : +62 857-0402-6706\nYT : XinnChan'
 global.sessionName = 'session'
 global.lolkey = 'XinnKenjiFong'
-global.email = 'xenji795@gmail.com'
+global.email = 'westatas21@gmail.com'
 global.group = 'https://chat.whatsapp.com/CyXve8oC4Gn9VbvwHdHZym'
 global.youtube = 'https://youtube.com/channel/UCHEovj1ueVlQQRyiF0ObPRA'
-global.website = 'https://github.com/XinnChan/Baileys'
-global.github = 'https://github.com/XinnChan'
+global.website = 'https://github.com/ArilNarindra'
+global.github = 'https://github.com/ArilNarindra'
 global.nomorowner = 'https://wa.me/6285753428048'
 global.region = 'I`m From Indonesia'
 global.prefa = ['','!','.','#','-','•']
